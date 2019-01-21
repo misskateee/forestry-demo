@@ -1,15 +1,16 @@
 ---
-title: Welcome to the Forestry Demo Site!
+title: stale vela slankov
 date: 2017-09-25 09:09:13 +0000
 related_posts:
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
+sub_heading: naco 2
 tags:
 - Demo
 - Forestry
 layout: post
-banner_image: ''
+banner_image: "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
+
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 
